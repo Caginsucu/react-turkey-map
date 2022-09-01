@@ -1,4 +1,4 @@
-DEMO LİNKİ: react-practise1-github-io.vercel.app 
+DEMO LİNKİ: https://react-practise1-github-io.vercel.app/
 
 # Getting Started with Create React App
 
